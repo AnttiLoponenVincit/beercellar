@@ -1,6 +1,9 @@
 # Beer Cellar application
 
-Web frontend implemented with ReactJS and Redux
+Keep up to date with your beer cellar
+
+* ReactJS, Redux
+* NodeJS, Objection
 
 ## How to run
 
