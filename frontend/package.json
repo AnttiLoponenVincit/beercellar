@@ -43,17 +43,10 @@
       ]
     ]
   },
-  "scripts": {
-    "test": "jest"
-  },
-  "jest": {
-    "scriptPreprocessor": "<rootDir>/preprocessor.js",
-    "unmockedModulePathPatterns": [
-      "<rootDir>/node_modules/react",
-      "<rootDir>/node_modules/react-dom",
-      "<rootDir>/node_modules/react-addons-test-utils"
-    ]
-  },
-  "author": "",
-  "license": "ISC"
+  "author": "Antti Loponen",
+  "license": "ISC",
+    "repository" : {
+       "type" : "git",
+       "url" : "https://github.com/AnttiLoponenVincit/beercellar"
+    }
 }

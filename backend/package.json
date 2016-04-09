@@ -1,0 +1,11 @@
+{
+  "name": "beer-cellar-backend",
+  "version": "0.0.1",
+  "description": "Backend server for the Beer Cellar app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antti Loponen",
+  "license": "ISC"
+}
